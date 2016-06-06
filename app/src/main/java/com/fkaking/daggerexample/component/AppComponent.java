@@ -1,6 +1,5 @@
 package com.fkaking.daggerexample.component;
 
-import com.fkaking.daggerexample.MainActivity;
 import com.fkaking.daggerexample.MyApplication;
 import com.fkaking.daggerexample.module.AppModule;
 
